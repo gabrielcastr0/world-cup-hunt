@@ -38,4 +38,11 @@ export const SquareForm = styled.div`
   height: 30px;
   background: #88324b;
   box-shadow: 0px 0px 0px 5px #57182b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
+
+export const TeamName = styled.span`
+  color: #fff;
 `;
