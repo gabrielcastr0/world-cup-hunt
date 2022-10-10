@@ -12,7 +12,8 @@ export default createGlobalStyle`
   main{
     display: flex;
     flex-direction: column;
-    height: 100%;
-    background: #21080e;
+    min-height: 100vh;
+    background: rgb(33,8,14);
+    background: linear-gradient(174deg, rgba(33,8,14,1) 0%, rgba(33,8,14,0.9) 100%);
   }
 `;

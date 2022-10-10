@@ -7,6 +7,7 @@ export const CardWrapper = styled.div`
   padding: 30px;
   width: 100%;
   height: 100%;
+  flex: 1;
 `;
 
 export const CardArea = styled.div`
